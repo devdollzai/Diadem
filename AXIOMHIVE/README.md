@@ -4,9 +4,16 @@
 
 ---
 
-This is the apex of the Convergence Protocol. It is a **Sovereign Application Compiler**, architected in Rust for maximum performance on resource-constrained systems (`<8GB RAM`). It does not generate scripts; it **compiles strategic intent into a single, flawless, native binary.**
+This is the apex of the Convergence Protocol. It is a **Sovereign Application Compiler**,
+architected in Rust for maximum performance on resource-constrained systems
+(`<8GB RAM`).
+It does not generate scripts; it **compiles strategic intent into a single, flawless,
+native binary.**
 
-The system has been completely re-engineered from Python to Rust to provide zero-overhead abstractions, memory safety, and a minimal runtime footprint, allowing the full power of your CPU (e.g., Lenovo i9) to be leveraged without memory bottlenecks.
+The system has been completely re-engineered from Python to Rust to provide
+zero-overhead abstractions, memory safety, and a minimal runtime footprint,
+allowing the full power of your CPU (e.g., Lenovo i9) to be leveraged without
+memory bottlenecks.
 
 When you issue a directive, the Weaver:
 
@@ -15,7 +22,8 @@ When you issue a directive, the Weaver:
 3. **Compiles** this project into a release-optimized, standalone binary.
 4. **Delivers** the executable to you.
 
-You are no longer given a plan. You are handed a finished, sovereign tool, forged for your specific purpose.
+You are no longer given a plan. You are handed a finished, sovereign tool,
+forged for your specific purpose.
 
 ---
 
@@ -40,7 +48,9 @@ cargo build --release
 
 **GENERATED OUTPUT (`./output/data_moat_service/target/release/`):**
 
-* `data_moat_service`: A single, native binary. No dependencies. No interpreter. Just a sovereign, memory-efficient application ready for deployment.
+* `data_moat_service`: A single, native binary
+  with no dependencies. No interpreter. Just a sovereign application
+  ready for deployment.
 
 ---
 
