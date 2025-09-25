@@ -1,0 +1,14 @@
+/home/x/Desktop/Diadem/AXIOMHIVE/output/1758772371_data_moat_service/target/release/deps/serde-7f1f913f9e4edb6e.d: /home/x/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.226/src/lib.rs /home/x/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.226/src/integer128.rs /home/x/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.226/src/private/mod.rs /home/x/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.226/src/private/de.rs /home/x/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.226/src/private/ser.rs /home/x/Desktop/Diadem/AXIOMHIVE/output/1758772371_data_moat_service/target/release/build/serde-95b4fcbf72420a9b/out/private.rs
+
+/home/x/Desktop/Diadem/AXIOMHIVE/output/1758772371_data_moat_service/target/release/deps/libserde-7f1f913f9e4edb6e.rlib: /home/x/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.226/src/lib.rs /home/x/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.226/src/integer128.rs /home/x/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.226/src/private/mod.rs /home/x/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.226/src/private/de.rs /home/x/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.226/src/private/ser.rs /home/x/Desktop/Diadem/AXIOMHIVE/output/1758772371_data_moat_service/target/release/build/serde-95b4fcbf72420a9b/out/private.rs
+
+/home/x/Desktop/Diadem/AXIOMHIVE/output/1758772371_data_moat_service/target/release/deps/libserde-7f1f913f9e4edb6e.rmeta: /home/x/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.226/src/lib.rs /home/x/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.226/src/integer128.rs /home/x/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.226/src/private/mod.rs /home/x/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.226/src/private/de.rs /home/x/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.226/src/private/ser.rs /home/x/Desktop/Diadem/AXIOMHIVE/output/1758772371_data_moat_service/target/release/build/serde-95b4fcbf72420a9b/out/private.rs
+
+/home/x/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.226/src/lib.rs:
+/home/x/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.226/src/integer128.rs:
+/home/x/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.226/src/private/mod.rs:
+/home/x/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.226/src/private/de.rs:
+/home/x/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.226/src/private/ser.rs:
+/home/x/Desktop/Diadem/AXIOMHIVE/output/1758772371_data_moat_service/target/release/build/serde-95b4fcbf72420a9b/out/private.rs:
+
+# env-dep:OUT_DIR=/home/x/Desktop/Diadem/AXIOMHIVE/output/1758772371_data_moat_service/target/release/build/serde-95b4fcbf72420a9b/out

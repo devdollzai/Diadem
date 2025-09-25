@@ -1,0 +1,30 @@
+# @AXIOMHIVE @DEVDOLLZAI
+# RUST CI/CD PIPELINE :: AXIOM: FLAW=0
+
+name: AXIOM WEAVER INTEGRITY CHECK
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Check Formatting
+      run: cargo fmt --check
+
+    - name: Run Linter (Clippy)
+      run: cargo clippy -- -D warnings
+
+    - name: Run Tests
+      run: cargo test --verbose
+
+    - name: Build Weaver
+      run: cargo build --release --verbose

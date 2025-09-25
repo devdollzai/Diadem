@@ -1,0 +1,27 @@
+# @AXIOMHIVE @DEVDOLLZAI
+
+[package]
+name = "axiom_weaver"
+version = "5.0.0"
+edition = "2021"
+authors = ["AXIOMHIVE // DEVDOLLZAI"]
+
+[dependencies]
+# Core CLI parsing
+clap = { version = "4.5.4", features = ["derive"] }
+
+# Serialization/Deserialization
+serde = { version = "1.0.197", features = ["derive"] }
+serde_json = "1.0.115"
+
+# Database for stateful memory (Sovereignty & Depth Axioms)
+rusqlite = { version = "0.31.0", features = ["bundled"] }
+
+# Hashing for audit trails
+sha2 = "0.10.8"
+
+# Templating for code generation
+minijinja = "1.0.18"
+
+# For handling file system operations and command execution
+anyhow = "1.0.82"
